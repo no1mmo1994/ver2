@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">AirCert Tech and Safety LLC Logo</title>
+  <desc id="desc">High contrast logo for AirCert Tech &amp; Safety LLC</desc>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8FE6FF"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4.5" flood-color="#8FE6FF" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" fill="none"/>
+  <g transform="translate(60 42)" filter="url(#glow)">
+    <path d="M112 8L224 296H173L147 228H79L53 296H2L114 8ZM113 90L91 151H136L113 90Z" fill="url(#grad)"/>
+    <rect x="238" y="8" width="58" height="292" rx="10" fill="#F4FAFF" opacity="0.28"/>
+  </g>
+  <g transform="translate(360 105)">
+    <text x="0" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="800" fill="#FFFFFF" letter-spacing="1">AirCert</text>
+    <text x="2" y="154" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#EAF6FF" letter-spacing="2">AirCert Tech &amp; Safety LLC</text>
+  </g>
+</svg>

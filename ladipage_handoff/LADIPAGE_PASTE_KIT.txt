@@ -1,0 +1,61 @@
+LADIPAGE PASTE KIT - AirCert Tech & Safety LLC
+
+SECTION 1 - HEADER
+- Company: AirCert Tech & Safety LLC
+- Menu text: Menu
+- CTA text: Đăng ký tư vấn
+
+SECTION 2 - HERO
+- H1: AirCert Tech & Safety LLC
+- Line 1: chuyên : Cung ứng việc làm tại đất nước Campuchia - Philippines
+- Line 2: phí đi lại 0 đồng công ty lo trọn gói Xuất Nhập Cảnh !
+
+SECTION 3 - HERO FORM (Đăng Ký ứng Tuyển)
+- Title: Đăng Ký ứng Tuyển
+- Placeholder 1: HỌ VÀ TÊN *
+- Placeholder 2: SỐ ĐIỆN THOẠI *
+- Placeholder 3: EMAIL
+- Button: Liên hệ ngay
+- Support line 1: Hỗ trợ 24/7 - Tư vấn miễn phí
+- Support line 2: Hân hạnh đem lại cơ hội làm việc cho bạn!
+
+SECTION 4 - FAQ
+- Section title: Câu hỏi thường gặp
+
+FAQ 1
+- Q: Đại lý nhận hoa hồng khi nào?
+- A: Sau mỗi sản phẩm bán được, đại lý có thể nhận ngay hoa hồng theo mỗi sản phẩm.
+
+FAQ 2
+- Q: Đại lý có kênh tài khoản riêng không?
+- A: Đại lý được cấp tài khoản miễn phí trên hệ thống tiếp thị liên kết để tạo link giới thiệu có gắn mã số id riêng: Khi khách đăng ký sẽ biết nguồn do đại lý nào giới thiệu và trả hoa hồng theo hình thức chiết khấu phần trăm trên mỗi sản phẩm bán được. Khi có đơn hàng, chúng tôi sẽ phụ trách việc tư vấn, chốt đơn, cung cấp sản phẩm tới khách hàng.
+
+FAQ 3
+- Q: Cộng tác viên liên hệ đội ngũ hỗ trợ như thế nào?
+- A: Nếu bạn quan tâm hãy đăng kí ngay với chúng tôi bằng cách gửi các thông tin về Họ tên, số điện thoại, email, facebook qua các đường liên hệ bên dưới.
+
+FAQ 4
+- Q: Cộng tác viên trong quá trình làm việc có được hỗ trợ từ đội ngũ không?
+- A: Đội ngũ hỗ trợ sẽ đồng hành xuyên suốt quá trình làm việc để đảm bảo hiệu quả và ổn định.
+
+SECTION 5 - FOOTER
+- Footer title: TRUNG TÂM GIỚI THIỆU VIỆC LÀM
+- Address: 4047 Towhee Dr, Calabasas, CA 91302
+- Hotline: (708) 978-0545
+- Website: aircerttechsafety.ph-mt.com
+
+FOOTER LINKS
+- Hướng dẫn mua hàng
+- Chính sách nhà phân phối & CTV
+- Chính sách bảo mật
+- Điều khoản & Điều kiện
+
+CTA ACTIONS
+- Call: tel:+17089780545
+- Email: mailto:info@aircerttechsafety.ph-mt.com?subject=Consultation%20Request&body=Hello%20AirCert%20Tech%20%26%20Safety%20LLC%2C%20I%20would%20like%20to%20register.
+- WhatsApp: https://wa.me/17089780545?text=Hello%20AirCert%20Tech%20%26%20Safety%20LLC%2C%20I%20want%20to%20register.
+
+ASSETS TO USE
+- Logo: assets/aircerttechsafety-logo.svg
+- Header image (optional): assets/header-generated.webp
+- Footer image (optional): assets/footer-generated.webp
